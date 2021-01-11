@@ -1,0 +1,13 @@
+1. a bit about git https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+2. Setup (https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+3. local operations
+    a. create folder
+    b. git init
+    c. git add (staging)
+    d. git commit (committing)
+    e. git reset (undoing)
+    f. git branch
+3. remote operations
+    a. creating repo on github
+    b. git push
+    c. branch and set upstream
